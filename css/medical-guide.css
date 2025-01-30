@@ -92,8 +92,8 @@ body {
 .facility {
 	padding-left: 30px;
 	padding-top: 20px;
-	display: flex;
-	justify-content: space-between;
+	/* display: flex;
+	justify-content: space-between; */
 }
 
 .cust-btn {
@@ -363,6 +363,7 @@ img:hover {
 .header .nav li a:hover {
 	color: #fff;
 	padding: 10px 24px;
+	text-decoration: none;
 }
 
 /*..... HEADER 2 ......*/
