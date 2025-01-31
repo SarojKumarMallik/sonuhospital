@@ -4,7 +4,7 @@
 .wtf-menu ul.submenu li:hover {  background: #02ADC6;}
 .tp-caption.grey_heavy_72-light {color:#02ADC6;}
 .tp-caption.icon i { background: #02ADC6;}
-.services-one .service-sec .icon{ background:#02ADC6;}
+/* .services-one .service-sec .icon{ background:#02ADC6;} */
 .z-tabs.silver > ul > li.z-active > a {	  border-bottom: solid 5px #02ADC6;	  color: #02ADC6;}
 .z-tabs.horizontal .detail a:hover {    background-color: #02ADC6;}
 .meet-specialists .detail h6 {    color: #02ADC6;}
@@ -20,7 +20,7 @@
 .header2 .nav li.item-select:hover { background: #02ADC6 url(../images/navi-plus.png) no-repeat 50% 32%; }
 .header2 .nav li:hover{  background: #464C5B url(../images/navi-plus.png) no-repeat 50% 32%; border-radius: 0; padding:46px 0 32px 0;}
 .tp-bullets.preview4 .bullet.selected { background: #02ADC6 !important;}
-.services-two .service-sec .icon{ background:#02ADC6;}
+/* .services-two .service-sec .icon{ background:#02ADC6;} */
 .services-three .serv-sec{background: #02ADC6;}
 .services-three .serv-sec.serv-sec2{ background: #02ADC6;}
 .services-three .serv-sec.serv-sec3{background: #02ADC6;}
