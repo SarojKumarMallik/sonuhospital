@@ -73,6 +73,8 @@ ul.z-tabs-nav.z-tabs-desktop{
   float: left;
   width: 100%;
    margin:0 0 70px 0;
+   display: flex;
+   justify-content: center;
 }
 
 .z-tabs > .z-container {
