@@ -422,7 +422,12 @@ img:hover {
 	float: left;
 }
 
-
+.doctor-img{
+	display: grid; grid-template-columns: 1fr 1fr;
+}
+.doctor-img img{
+	width: 310px; height: 394px;
+}
 /*..... WELCOME TWO ......*/
 .dark-back {
 	background: #f5f5f5;
