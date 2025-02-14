@@ -773,6 +773,7 @@ img:hover {
 	display: inline-block;
 	margin: 0px 0 -1px 0;
 	float: left;
+	font-weight: 850;
 }
 
 .main-footer .title {
@@ -4804,4 +4805,7 @@ input.input.error {
 
 .error-404 a:hover {
 	background-color: #02ADC6;
+}
+.cabin-bold2{
+	font-size: 43px;
 }
