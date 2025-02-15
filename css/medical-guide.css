@@ -1335,6 +1335,7 @@ img:hover {
 .services-three .serv-sec {
 	float: left;
 	width: 33.33%;
+	height: 300px;
 	padding: 80px 43px;
 }
 
